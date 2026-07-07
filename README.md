@@ -46,7 +46,7 @@ The project was created to practice Flutter fundamentals such as navigation, reu
 
 | Family Members | Colors |
 |------|---------|
-| <img src="UI/family_page.png" width="220"/> | <img src="UI/colors_page.png" width="220"/> |
+| <img src="UI/family_members_page.png" width="220"/> | <img src="UI/colors_page.png" width="220"/> |
 
 | Phrases |
 |------|
