@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tuko_app/component/category_container.dart';
+import 'package:tuko_app/components/category_container.dart';
 import 'package:tuko_app/pages/colors_page.dart';
 import 'package:tuko_app/pages/family_members_page.dart';
 import 'package:tuko_app/pages/numbers_page.dart';

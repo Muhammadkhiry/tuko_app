@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tuko_app/component/building_item.dart';
+import 'package:tuko_app/components/building_item.dart';
 import 'package:tuko_app/models/category_model.dart';
 
 class FamilyMembers extends StatelessWidget {

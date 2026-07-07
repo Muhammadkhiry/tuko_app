@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tuko_app/component/building_phrase.dart';
+import 'package:tuko_app/components/building_phrase.dart';
 import 'package:tuko_app/models/phrase_model.dart';
 
 class PhrasesPage extends StatelessWidget {
